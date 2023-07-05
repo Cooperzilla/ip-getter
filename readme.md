@@ -1,6 +1,6 @@
 # Ip Getter
 
-This tells you your ip adress(ipv4 adress).
+This tells you your ip address(ipv4 address).
 
 I made it because its anoying to look through what the ipconfig command prints out.
 
