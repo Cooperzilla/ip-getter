@@ -4,8 +4,8 @@ This tells you your ip address(ipv4 address).
 
 I made it because its anoying to look through what the ipconfig command prints out.
 
-Use the ip.exe for it to print it in the terminal .
+To use download the exe and run it.
 
-Or use the ip_gui_win.exe for a window to show with it(windows only).
+Made very quickly with nim should work.
 
-Made very quickly with nim ***May not Work not tested much***.
+***Do not use the 1st version does not work***
