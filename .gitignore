@@ -1,3 +1,4 @@
 *.exe
 /.vscode/
 ip_gui.nim
+ipp.nim
